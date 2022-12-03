@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\bin\Debug\net6.0\HW02_Even.exe
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\bin\Debug\net6.0\HW02_Even.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\bin\Debug\net6.0\HW02_Even.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\bin\Debug\net6.0\HW02_Even.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\bin\Debug\net6.0\HW02_Even.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\HW02_Even.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\HW02_Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\HW02_Even.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\HW02_Even.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\HW02_Even.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\HW02_Even.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\refint\HW02_Even.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\HW02_Even.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\HW02_Even.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW02_Even\obj\Debug\net6.0\ref\HW02_Even.dll
