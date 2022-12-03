@@ -26,6 +26,9 @@ if (g > max3) max3 = g;
 if (h > max3) max3 = h;
 if (i > max3) max3 = i;
 
+Console.Write("max1 = ");
 Console.WriteLine(max1);
+Console.Write("max2 = ");
 Console.WriteLine(max2);
+Console.Write("max3 = ");
 Console.WriteLine(max3);
