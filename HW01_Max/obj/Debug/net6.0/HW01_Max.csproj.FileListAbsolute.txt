@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\bin\Debug\net6.0\HW01_Max.exe
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\bin\Debug\net6.0\HW01_Max.deps.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\bin\Debug\net6.0\HW01_Max.runtimeconfig.json
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\bin\Debug\net6.0\HW01_Max.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\bin\Debug\net6.0\HW01_Max.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\HW01_Max.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\HW01_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\HW01_Max.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\HW01_Max.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\HW01_Max.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\HW01_Max.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\refint\HW01_Max.dll
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\HW01_Max.pdb
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\HW01_Max.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Рабочий стол\DZ_1\HW01_Max\obj\Debug\net6.0\ref\HW01_Max.dll
